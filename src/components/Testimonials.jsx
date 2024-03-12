@@ -40,7 +40,7 @@ function Testimonials() {
               <div className="testimonial-profile">
                 <img src="/portrait_1.avif" alt="" />
                 <div className="profile-info">
-                  <span>Michael Douglas</span>
+                  <span>João da Silva</span>
                   <span>Brazil</span>
                 </div>
               </div>
@@ -54,7 +54,7 @@ function Testimonials() {
               <div className="testimonial-profile">
                 <img src="/portrait_2.avif" alt="" />
                 <div className="profile-info">
-                  <span>Minshuga Tomoyado</span>
+                  <span>Haruki Nakamura</span>
                   <span>Japan</span>
                 </div>
               </div>
