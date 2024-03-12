@@ -36,7 +36,7 @@ RentWheels is an online platform that allows users to rent a wide selection of v
 
 ## Layout web
 <div align="center">
-  <img src="./src/assets/readme/desktop.gif" alt="Logo">
+  <img src="./src/assets/readme/desktop.png" alt="Logo">
 </div>
 
 
